@@ -65,6 +65,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roodjinocherilus&langs_count=8&layout=compact)](https://github.com/roodjinocherilus/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roodjinocherilus&show_icons=true&locale=en" alt="roodjinocherilus /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roodjinocherilus&show_icons=true&locale=en" alt="roodjinocherilus" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roodjinocherilus&" alt="roodjinocherilus" /></p>
