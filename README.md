@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roodjinocherilus" alt="roodjinocherilus" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/didierganthier_" target="blank"><img src="https://img.shields.io/twitter/follow/roodjinocherilus_?logo=twitter&style=for-the-badge" alt="didierganthier_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/roodjinocherilu" target="blank"><img src="https://img.shields.io/twitter/follow/roodjinocherilus_?logo=twitter&style=for-the-badge" alt="didierganthier_" /></a> </p>
 
 
 - 🌱 I’m currently learning **React, Typescript, Ruby**
